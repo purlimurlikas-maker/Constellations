@@ -5,11 +5,11 @@ body {
 
 circle {
   fill: white;
-  filter: drop-shadow(0 0 3px rgba(255,255,255,0.8)); /* soft glow */
+  filter: drop-shadow(0 0 3px rgba(255,255,255,0.8)); 
 }
 
 line {
-  stroke: rgba(255,255,255,0.3);  /* faint connector lines */
+  stroke: rgba(255,255,255,0.3);  
   stroke-width: 1.5;
 }
 
@@ -17,6 +17,10 @@ line {
   border: 2px solid #306bac;
   background-color: #6f9ceb;
   color: white;
+  border-radius: 12px;
+  width: fit-content;
+  height: auto;
+  padding: 10px;
 }
 
 .hidden {

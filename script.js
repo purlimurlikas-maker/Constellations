@@ -9,7 +9,11 @@ const facts = {
     name: "Orion",
     text: "The Hunter. Look for the three belt stars in winter skies. Its brightest star is Betelgeuse, a red supergiant."
   },
-  // add more constellations here
+  
+  cassipoeia: {
+    name: "Cassipoeia",
+    text: ""
+  },
 };
 
 
