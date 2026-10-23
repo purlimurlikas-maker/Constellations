@@ -1,0 +1,24 @@
+body {
+  background: radial-gradient(circle at 50% 40%, #1a2350, #0b1026 70%);
+  min-height: 100vh;
+}
+
+circle {
+  fill: white;
+  filter: drop-shadow(0 0 3px rgba(255,255,255,0.8)); /* soft glow */
+}
+
+line {
+  stroke: rgba(255,255,255,0.3);  /* faint connector lines */
+  stroke-width: 1.5;
+}
+
+#info-box {
+  border: 2px solid #306bac;
+  background-color: #6f9ceb;
+  color: white;
+}
+
+.hidden {
+  display: none;
+}
