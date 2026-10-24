@@ -10,9 +10,9 @@ const facts = {
     text: "The Hunter. Look for the three belt stars in winter skies. Its brightest star is Betelgeuse, a red supergiant."
   },
   
-  cassipoeia: {
-    name: "Cassipoeia",
-    text: ""
+  cassiopeia: {
+    name: "Cassiopeia",
+    text: "Cassiopeia is a constellation in the northern sky and is circumpolar from mid-northern latitudes. Cassiopeia is visible lower in the sky for part of the year.  In Greek mythology, Cassiopeia is the mother of Andromeda."
   },
 };
 
