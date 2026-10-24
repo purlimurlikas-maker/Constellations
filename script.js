@@ -14,6 +14,11 @@ const facts = {
     name: "Cassiopeia",
     text: "Cassiopeia is a constellation in the northern sky and is circumpolar from mid-northern latitudes. Cassiopeia is visible lower in the sky for part of the year.  In Greek mythology, Cassiopeia is the mother of Andromeda."
   },
+
+  andromeda: {
+    name: "Andromeda",
+    text: "Andromeda represents the daughter of Cepheus and Cassiopeia, also nearby constellations in the northern sky. Andromeda is next to Pegasus. From the northern hemisphere, it is best viewed in the evening skies in the fall."
+  },
 };
 
 

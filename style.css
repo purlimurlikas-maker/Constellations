@@ -18,9 +18,10 @@ line {
   background-color: #6f9ceb;
   color: white;
   border-radius: 12px;
-  width: fit-content;
+  width: 300px;
   height: auto;
   padding: 10px;
+  margin: 10px;
 }
 
 .hidden {
