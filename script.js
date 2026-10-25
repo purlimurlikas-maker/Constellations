@@ -24,6 +24,11 @@ const facts = {
     text: "Apus is a small, relatively faint constellation in the far southern sky, within 7 degrees of the south celestial pole. Apus represents the bird of paradise and means “without feet”. Apus first appeared on a celestial globe created by Petrus Plancius in 1598."
   },
 
+  aquarius: {
+    name: "Aquarius",
+    text: "Aquarius is one of the constellations of the zodiac, lying on the Sun’s apparent path across the sky. Aquarius is the ‘water carrier’ and is located in a part of the sky sometimes called the Sea because there are other water-based constellations nearby. Aquarius is a very old constellation first appearing in Babylonian star catalogues and later listed by Ptolemy in the second century."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "

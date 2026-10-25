@@ -3,6 +3,14 @@ body {
   min-height: 100vh;
 }
 
+h1, h3 {
+  color: #98b9f2;
+}
+
+h2 {
+  color: white;
+}
+
 circle {
   fill: white;
   filter: drop-shadow(0 0 3px rgba(255,255,255,0.8)); 
@@ -103,4 +111,69 @@ svg {
     max-height: 35svh;
     overflow-y: auto;
   }
+}
+
+
+/* The dropdown container */
+.dropdown {
+  position: relative;
+  display: inline-block;
+  overflow: visible;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: #306bac;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0;
+  border-radius: 12px;
+}
+
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #141b41;
+}
+
+.dropdown:focus-within .dropbtn {
+  background-color: #141b41;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #306bac;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  border-radius: 12px;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #141b41;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:focus-within .dropdown-content {
+  display: block;
 }
