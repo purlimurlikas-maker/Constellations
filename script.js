@@ -43,6 +43,11 @@ const facts = {
     name: "Aires",
     text: "Aries is one of the 12 constellations of the zodiac, located on the path the Sun appears to follow across the sky. Aries is north of the celestial equator between Pisces and Taurus. Aries is one of the 48 constellations described by Ptolemy in the second century and has been depicted as a Hired Man in Babylonian times. The original constellation of the shepherd (god) who was hired in spring was changed into the animal that he guarded."
   },
+  
+  auriga: {
+    name: "Auriga",
+    text: "Auriga is constellation in the northern celestial hemisphere with best visibility in the winter months. Auriga is one of the constellations that even Hellenistic Greek authors like Eratosthenes (3rd. Century BCE) found confusing: the charioteer was considered to drive a fast chariot while simultaneously carrying a goat and her offspring on his shoulder. The image is likely a multicultural merger. Auriga is Latin for charioteer. Auriga’s position near the winter Milky Way makes it home to a variety of star clusters and interesting objects."
+  },
 
   pegasus: {
     name: "Pegasus",
