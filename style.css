@@ -18,12 +18,16 @@ line {
   background-color: #6f9ceb;
   color: white;
   border-radius: 12px;
-  position: fixed;
   z-index: 10;
   box-sizing: border-box;
   width: min(300px, calc(100vw - 24px));
   margin: 0;
   padding: 10px;
+  position: fixed;
+  right: 12px;
+  bottom: 12px;
+  left: auto;
+  top: auto;
 }
 
 .hidden {
@@ -80,4 +84,23 @@ svg {
 .constellation-caption h2,
 .constellation-caption p {
   margin: 0.25rem 0;
+}
+
+@media (max-width: 600px) {
+  .constellation-page {
+    justify-content: flex-start;
+    padding-top: 1rem;
+  }
+
+  .constellation-page svg {
+    height: 42svh;
+  }
+
+  #info-box {
+    left: 12px;
+    right: 12px;
+    width: auto;
+    max-height: 35svh;
+    overflow-y: auto;
+  }
 }

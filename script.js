@@ -19,6 +19,11 @@ const facts = {
     text: "Antlia is a faint constellation in the southern hemisphere that represents an an early modern vacuum machine. The constellation was created by French astronomer Nicolas-Louis de Lacaille to represent experimental physics."
   },
 
+  apus: {
+    name: "Apus",
+    text: "Apus is a small, relatively faint constellation in the far southern sky, within 7 degrees of the south celestial pole. Apus represents the bird of paradise and means “without feet”. Apus first appeared on a celestial globe created by Petrus Plancius in 1598."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
@@ -31,6 +36,13 @@ document.addEventListener("click", function(e) {
   if (!e.target.closest(".constellation")) {
     document.getElementById("info-box").classList.add("hidden");
   }
+
+  const gallery = document.querySelector(".constellations");
+const infoBox = document.getElementById("info-box");
+
+gallery.addEventListener("scroll", () => {
+  infoBox.classList.add("hidden");
+}, { passive: true });
 });
 
 function showInfo(id, event) {
@@ -45,19 +57,4 @@ function showInfo(id, event) {
   const margin = 12;
   const boxRect = box.getBoundingClientRect();
 
-  let left = target.right + margin;
-  if (left + boxRect.width > window.innerWidth - margin) {
-    left = target.left - boxRect.width - margin;
-  }
-
-  const top = Math.max(
-    margin,
-    Math.min(
-      target.top + (target.height - boxRect.height) / 2,
-      window.innerHeight - boxRect.height - margin
-    )
-  );
-
-  box.style.left = `${Math.max(margin, left)}px`;
-  box.style.top = `${top}px`;
 }
