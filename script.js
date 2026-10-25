@@ -34,6 +34,11 @@ const facts = {
     text: "Aquila has a long history and was a Babylonian constellation, connected to an old Babylonian myth of a king who watches the world from above riding an eagle. Aquila is considered a summer constellation in the northern hemisphere and a winter constellation in the southern hemisphere."
   },
 
+  ara: {
+    name: "Ara",
+    text: "Ara is one of the 48 constellations described by Ptolemy. It represents the altar on which the Greek Gods forged an alliance against the Titans. Some cultures see Ara, Lupus and Centaurus as a super constellation. The Centaur is seen as carrying a dead animal to the altar. The bright stars in Ara are also included in other constellations from Chinese and Wardaman cultures."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
