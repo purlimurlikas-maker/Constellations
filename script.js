@@ -1,9 +1,3 @@
-function showInfo(id, event) {
-  event.stopPropagation();  // stops the click from reaching the SVG
-  // ...rest of your code...
-}
-
-
 const facts = {
   orion: {
     name: "Orion",
@@ -29,9 +23,31 @@ document.addEventListener("click", function(e) {
   }
 });
 
-function showInfo(id) {
+function showInfo(id, event) {
   const info = facts[id];
+  const box = document.getElementById("info-box");
+
   document.getElementById("info-name").textContent = info.name;
   document.getElementById("info-facts").textContent = info.text;
-  document.getElementById("info-box").classList.remove("hidden");
+  box.classList.remove("hidden");
+
+  const target = event.currentTarget.getBoundingClientRect();
+  const margin = 12;
+  const boxRect = box.getBoundingClientRect();
+
+  let left = target.right + margin;
+  if (left + boxRect.width > window.innerWidth - margin) {
+    left = target.left - boxRect.width - margin;
+  }
+
+  const top = Math.max(
+    margin,
+    Math.min(
+      target.top + (target.height - boxRect.height) / 2,
+      window.innerHeight - boxRect.height - margin
+    )
+  );
+
+  box.style.left = `${Math.max(margin, left)}px`;
+  box.style.top = `${top}px`;
 }

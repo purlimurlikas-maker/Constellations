@@ -18,12 +18,66 @@ line {
   background-color: #6f9ceb;
   color: white;
   border-radius: 12px;
-  width: 300px;
-  height: auto;
+  position: fixed;
+  z-index: 10;
+  box-sizing: border-box;
+  width: min(300px, calc(100vw - 24px));
+  margin: 0;
   padding: 10px;
-  margin: 10px;
 }
 
 .hidden {
   display: none;
+}
+
+.cassiopeia-svg {
+  display: block;
+  width: min(100%, 500px);
+  height: auto;
+}
+
+svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.constellations {
+  display: flex;
+  width: 100vw;
+  height: 100svh;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+}
+
+.constellation-page {
+  box-sizing: border-box;
+  flex: 0 0 100vw;
+  width: 100vw;
+  height: 100svh;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  scroll-snap-align: start;
+}
+
+.constellation-page svg {
+  flex: 0 0 auto;
+  width: min(100%, 800px);
+  height: 55svh;
+  max-width: 100%;
+}
+
+.constellation-caption {
+  max-width: 60ch;
+  text-align: center;
+}
+
+.constellation-caption h2,
+.constellation-caption p {
+  margin: 0.25rem 0;
 }
