@@ -29,6 +29,11 @@ const facts = {
     text: "Aquarius is one of the constellations of the zodiac, lying on the Sun’s apparent path across the sky. Aquarius is the ‘water carrier’ and is located in a part of the sky sometimes called the Sea because there are other water-based constellations nearby. Aquarius is a very old constellation first appearing in Babylonian star catalogues and later listed by Ptolemy in the second century."
   },
 
+  aquila: {
+    name: "Aquila",
+    text: "Aquila has a long history and was a Babylonian constellation, connected to an old Babylonian myth of a king who watches the world from above riding an eagle. Aquila is considered a summer constellation in the northern hemisphere and a winter constellation in the southern hemisphere."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
