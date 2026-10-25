@@ -39,6 +39,11 @@ const facts = {
     text: "Ara is one of the 48 constellations described by Ptolemy. It represents the altar on which the Greek Gods forged an alliance against the Titans. Some cultures see Ara, Lupus and Centaurus as a super constellation. The Centaur is seen as carrying a dead animal to the altar. The bright stars in Ara are also included in other constellations from Chinese and Wardaman cultures."
   },
 
+  aires: {
+    name: "Aires",
+    text: "Aries is one of the 12 constellations of the zodiac, located on the path the Sun appears to follow across the sky. Aries is north of the celestial equator between Pisces and Taurus. Aries is one of the 48 constellations described by Ptolemy in the second century and has been depicted as a Hired Man in Babylonian times. The original constellation of the shepherd (god) who was hired in spring was changed into the animal that he guarded."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
