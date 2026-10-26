@@ -74,6 +74,16 @@ const facts = {
     text: "A newer constellation invented in 1687 by Johannes Hevelius, Canes Venatici represents two dogs held on a leash by the figure represented in the nearby constellation Boötes. The brightest star is called “Cor Caroli”, Heart of Charles, in honor to British monarchy. It was named in the 1660s after a period of 11 years when Britain had no king."
   },
 
+  canismajor: {
+    name: "Canis Major",
+    text: "Canis Major is a constellation in the southern celestial hemisphere. In the second century, it was included in Ptolemy's 48 constellations, and is counted among the 88 modern constellations. Its name is Latin for 'greater dog' in contrast to Canis Minor, the 'lesser dog'; both figures are commonly represented as following the constellation of Orion the hunter through the sky."
+  },
+
+  canisminor: {
+    name: "Canis Minor",
+    text: "The modern name is Latin “The Lesser Dog” in contrast to Canis Major, the Greater Dog. However, in antiquity, this constellation was named “The one [asterism] before the Dog” because it rises a bit earlier in the northern hemisphere. The Greek term for “the one before the dog”, “pro kýon”, nowadays is used as a name for the brightest star of the constellation."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
