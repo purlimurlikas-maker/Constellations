@@ -54,6 +54,11 @@ const facts = {
     text: "Boötes is one of the 48 constellations cataloged by the second-century astronomer Ptolemy based on earlier Greek and likely also a Babylonian predecessor. “Bootes” is a Greek loanword in Latin. The original Greek term translates “Ploughman”, in Latin it was used for “herdsman” and due to folk etymology also for ‘ox driver’. Boötes is a spring and summer constellation in the northern hemisphere. The farther south you are located, the less time in the year you will see Boötes."
   },
 
+  caelum: {
+    name: "Caelum",
+    text: "This constellation was invented in the 1750s by the astronomer Nicholas Louis de Lacaille. The common translation of Caelum from Latin to English is ‘heaven’ but in this instance it means ‘The Chisel’, a tool that is used to carve stone. There is no mythological story relating to The Chisel."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
