@@ -177,3 +177,8 @@ svg {
 .dropdown:focus-within .dropdown-content {
   display: block;
 }
+
+.spongebob {
+  border-radius: 12px;
+  width: 100px;
+}

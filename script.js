@@ -49,6 +49,11 @@ const facts = {
     text: "Auriga is constellation in the northern celestial hemisphere with best visibility in the winter months. Auriga is one of the constellations that even Hellenistic Greek authors like Eratosthenes (3rd. Century BCE) found confusing: the charioteer was considered to drive a fast chariot while simultaneously carrying a goat and her offspring on his shoulder. The image is likely a multicultural merger. Auriga is Latin for charioteer. Auriga’s position near the winter Milky Way makes it home to a variety of star clusters and interesting objects."
   },
 
+  boötes: {
+    name: "Boötes",
+    text: "Boötes is one of the 48 constellations cataloged by the second-century astronomer Ptolemy based on earlier Greek and likely also a Babylonian predecessor. “Bootes” is a Greek loanword in Latin. The original Greek term translates “Ploughman”, in Latin it was used for “herdsman” and due to folk etymology also for ‘ox driver’. Boötes is a spring and summer constellation in the northern hemisphere. The farther south you are located, the less time in the year you will see Boötes."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
