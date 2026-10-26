@@ -64,6 +64,16 @@ const facts = {
     text: "Camelopardalis was invented in 1612 by Petrus Plancius, it represents a giraffe. The constellation name is a Greek loanword in Latin. The term comes from the words for camel and leopard, because it was an animal for hot climate (like camels) with a fur pattern like a leopard."
   },
 
+  cancer: {
+    name: "Cancer",
+    text: "Cancer represents a crab that was crushed by Heracles while he was fighting the Dragon (Draco), after which the goddess Hera placed the crab among the stars. Some early modern drawings also represent these stars with the image of a lobster, but the original Babylonian image was the Seat of the God of Heaven, represented by the quadrilateral of stars boxing the open star cluster M44."
+  },
+
+  canesvenatici: {
+    name: "Canes Venatici",
+    text: "A newer constellation invented in 1687 by Johannes Hevelius, Canes Venatici represents two dogs held on a leash by the figure represented in the nearby constellation Boötes. The brightest star is called “Cor Caroli”, Heart of Charles, in honor to British monarchy. It was named in the 1660s after a period of 11 years when Britain had no king."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
