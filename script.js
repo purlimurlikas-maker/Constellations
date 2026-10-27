@@ -84,6 +84,11 @@ const facts = {
     text: "The modern name is Latin “The Lesser Dog” in contrast to Canis Major, the Greater Dog. However, in antiquity, this constellation was named “The one [asterism] before the Dog” because it rises a bit earlier in the northern hemisphere. The Greek term for “the one before the dog”, “pro kýon”, nowadays is used as a name for the brightest star of the constellation."
   },
 
+  capricornus: {
+    name: "Capricornus",
+    text: "Capricornus is one of the constellations of the zodiac, which traces the apparent path of the Sun across the sky and is visible from much of the northern and southern hemispheres. It is one of the 48 constellations cataloged by the second-century astronomer Ptolemy. Capricornus is located in a portion of the sky sometimes called ‘The Sea’ because there is a concentration of constellations with water themes. Capricornus is Latin for ‘horned goat’ or 'goat horn' although it is commonly referred to as a ‘sea goat’, a mythical half-fish, half-goat creature. Capriconus is also sometimes identified as Pan, a god with goats horns and legs."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
