@@ -89,6 +89,11 @@ const facts = {
     text: "Capricornus is one of the constellations of the zodiac, which traces the apparent path of the Sun across the sky and is visible from much of the northern and southern hemispheres. It is one of the 48 constellations cataloged by the second-century astronomer Ptolemy. Capricornus is located in a portion of the sky sometimes called ‘The Sea’ because there is a concentration of constellations with water themes. Capricornus is Latin for ‘horned goat’ or 'goat horn' although it is commonly referred to as a ‘sea goat’, a mythical half-fish, half-goat creature. Capriconus is also sometimes identified as Pan, a god with goats horns and legs."
   },
 
+  carina: {
+    name: "Carina",
+    text: "Carina is a constellation in the southern sky, visible from lower northern latitudes and the southern hemisphere. Carina is Latin for the keel of a ship. Carina was originally part of a larger constellation (Argo Navis) until that was divided into three constellations. The others are Puppis (The Poop Deck) and Vela (The Sails)."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
