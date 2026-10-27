@@ -94,6 +94,11 @@ const facts = {
     text: "Carina is a constellation in the southern sky, visible from lower northern latitudes and the southern hemisphere. Carina is Latin for the keel of a ship. Carina was originally part of a larger constellation (Argo Navis) until that was divided into three constellations. The others are Puppis (The Poop Deck) and Vela (The Sails)."
   },
 
+  centaurus: {
+    name: "Centaurus",
+    text: "Centaurus is a large constellation in the southern sky that was cataloged by the second-century astronomer Ptolemy. Centaurus represents a mythical creature that is half human and half horse — The Centaur. The northern part of Centaurus can be seen low in the south from mid-northern latitudes but is better seen from the southern hemisphere."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
