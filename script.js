@@ -104,6 +104,21 @@ const facts = {
     text: "Cetus is Latinized for Greek “Ketos”, the name of a sea monster. In Greek mythology Cetus was sent by Poseidon to terrorize the coasts of Ethiopia after feeling insulted by the queen Cassiopeia who declared that she was more beautiful than his water nymphs. The king, on the instruction of an oracle, intended to sacrifice the princess Andromeda in order to stop the beast, but the hero Perseus slew it before it could get to her."
   },
 
+  chamaeleon: {
+    name: "Chamaeleon",
+    text: "This constellation was named by Dutch navigators who were charting the southern sky and who named the new constellations they described after animals they saw in various lands of the southern hemisphere."
+  },
+
+  circinus: {
+    name: "Circinus",
+    text: "Circinus represents a drafting compass and was invented in the 1750s by Nicolas Louis de Lacaille. It is very small and has few notable objects."
+  },
+
+  columba: {
+    name: "Columba",
+    text: "Columba is a faint constellation located just south of Canis Major. It is low in the sky for mid-northern latitudes and is considered a southern constellation. Columba was designated in the 16th century and its name is Latin for dove."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
