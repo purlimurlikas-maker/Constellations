@@ -119,6 +119,16 @@ const facts = {
     text: "Columba is a faint constellation located just south of Canis Major. It is low in the sky for mid-northern latitudes and is considered a southern constellation. Columba was designated in the 16th century and its name is Latin for dove."
   },
 
+  comaberenices: {
+    name: "Coma Berenices",
+    text: "Coma Berenices is an ancient asterism that is one of the 88 IAU constellations. Its name means ‘Berenices hair’ in Latin and refers to Queen Berenices II of Egypt who sacrificed her hair as a votive offering in the name of love. Coma Berenices is the only constellation named after a historic figure. Coma Berenices is located in the northern sky and is considered a spring/summer constellation for northern hemisphere observers."
+  },
+
+  coronaaustralis: {
+    name: "Corona Australis",
+    text: "As its name implies, Corona Australis is a southern constellation that skirts the southern horizon in summer months for observers at mid-northern latitudes and is better viewed from farther south. Its name in Latin means ‘southern crown’ (a counterpart to the northern crown, Corona Borealis). Corona Australis is one of the constellations listed by the second-century astronomer Ptolemy and it had been invented only a few decades earlier in first century Rome."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
