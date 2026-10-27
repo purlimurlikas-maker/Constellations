@@ -6,7 +6,7 @@ const facts = {
   
   cassiopeia: {
     name: "Cassiopeia",
-    text: "Cassiopeia is a constellation in the northern sky and is circumpolar from mid-northern latitudes. Cassiopeia is visible lower in the sky for part of the year.  In Greek mythology, Cassiopeia is the mother of Andromeda."
+    text: "Cassiopeia is a constellation in the northern sky and is circumpolar from mid-northern latitudes. Cassiopeia is visible lower in the sky for part of the year. As you travel south, it will become invisible at all if you are below latitude 25 degrees south. Cassiopeia is easy to find as it is composed of relatively bright stars that form a distinctive W or M shape. In Greek mythology, Cassiopeia is the mother of Andromeda."
   },
 
   andromeda: {
@@ -99,6 +99,11 @@ const facts = {
     text: "Centaurus is a large constellation in the southern sky that was cataloged by the second-century astronomer Ptolemy. Centaurus represents a mythical creature that is half human and half horse — The Centaur. The northern part of Centaurus can be seen low in the south from mid-northern latitudes but is better seen from the southern hemisphere."
   },
 
+  cetus: {
+    name: "Cetus",
+    text: "Cetus is Latinized for Greek “Ketos”, the name of a sea monster. In Greek mythology Cetus was sent by Poseidon to terrorize the coasts of Ethiopia after feeling insulted by the queen Cassiopeia who declared that she was more beautiful than his water nymphs. The king, on the instruction of an oracle, intended to sacrifice the princess Andromeda in order to stop the beast, but the hero Perseus slew it before it could get to her."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
@@ -120,16 +125,12 @@ gallery.addEventListener("scroll", () => {
 }, { passive: true });
 });
 
-function showInfo(id, event) {
+function showInfo(id) {
   const info = facts[id];
   const box = document.getElementById("info-box");
 
   document.getElementById("info-name").textContent = info.name;
   document.getElementById("info-facts").textContent = info.text;
   box.classList.remove("hidden");
-
-  const target = event.currentTarget.getBoundingClientRect();
-  const margin = 12;
-  const boxRect = box.getBoundingClientRect();
 
 }
