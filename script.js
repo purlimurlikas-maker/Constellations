@@ -139,6 +139,11 @@ const facts = {
     text: "Corvus is a small constellation located about 20 degrees south of the celestial equator so it is visible from much of the northern hemisphere and all of the southern hemisphere. Corvus is one of the 48 constellations catalogued by Ptolemy of Alexandria in the second century which is a direct takeover from the Babylonian uranography. Even there, it formed a super-constellation with Hydra sitting on the tip of the tail of the huge dragon-like creature that became the Greek watersnake. Corvus is visible in the northern hemisphere in spring and summer (in the southern hemisphere in fall and winter)."
   },
 
+  crater: {
+    name: "Crater",
+    text: "Crater is a small constellation located just south of the celestial equator. Crater is one of the 48 constellations cataloged by the second-century astronomer Ptolemy and represents a cup used by Apollo."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
