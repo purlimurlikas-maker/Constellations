@@ -129,6 +129,16 @@ const facts = {
     text: "As its name implies, Corona Australis is a southern constellation that skirts the southern horizon in summer months for observers at mid-northern latitudes and is better viewed from farther south. Its name in Latin means ‘southern crown’ (a counterpart to the northern crown, Corona Borealis). Corona Australis is one of the constellations listed by the second-century astronomer Ptolemy and it had been invented only a few decades earlier in first century Rome."
   },
 
+  coronaborealis: {
+    name: "Corona Borealis",
+    text: "Corona Borealis is a small constellation that was used by all ancient Greek astronomers as a wreath crowning a princess or bride. It goes back to the Babylonian “Constellation of Dignity”, an insignum of the god of agriculture.” Corona Borealis is the Northern Crown and its brightest stars form a semicircle, similar to those of Corona Australis, the Southern Crown. Corona Borealis is a northern hemisphere constellation and is visible to anyone north of latitude 50 degrees south."
+  },
+
+   corvus: {
+    name: "Corvus",
+    text: "Corvus is a small constellation located about 20 degrees south of the celestial equator so it is visible from much of the northern hemisphere and all of the southern hemisphere. Corvus is one of the 48 constellations catalogued by Ptolemy of Alexandria in the second century which is a direct takeover from the Babylonian uranography. Even there, it formed a super-constellation with Hydra sitting on the tip of the tail of the huge dragon-like creature that became the Greek watersnake. Corvus is visible in the northern hemisphere in spring and summer (in the southern hemisphere in fall and winter)."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
