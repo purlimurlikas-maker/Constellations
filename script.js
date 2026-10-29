@@ -164,6 +164,11 @@ const facts = {
     text: "Dorado is a constellation in the far southern sky and can only be seen from near the equator and the southern hemisphere. It contains most of the Large Magellanic Cloud, a nearby satellite galaxy of the Milky Way. Dorado was named in the sixteenth century and refers to mahi-mahi, the common dolphin fish. Some old star charts refer to Dorado as Xiphias, a swordfish."
   },
 
+  draco: {
+    name: "Draco",
+    text: "Draco is a constellation in the far northern sky and is circumpolar for observers at mid-northern latitudes and places farther north. Draco was cataloged by the second-century astronomer Ptolemy. Draco is seen as a dragon in Greek mythology."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
