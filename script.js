@@ -154,6 +154,16 @@ const facts = {
     text: "Cygnus is a northern constellation in the plane of the Milky Way. The original Greek constellation was named “Ornithos, The Bird” and it was coined “Cygnus, The Swan” in Latin by interpreting a specific mythological bird, a transformed god. Cygnus is also known as the Northern Cross."
   },
 
+  delphinus: {
+    name: "Delphinus",
+    text: "Delphinus, the Dolphin, is one of the 48 constellations described by Ptolemy. The dolphin was considered to be a messenger of the god Poseidon, and there is a story of a pod of dolphins rescuing a famous Greek poet when he was about to be killed at sea."
+  },
+  
+  dorado: {
+    name: "Dorado",
+    text: "Dorado is a constellation in the far southern sky and can only be seen from near the equator and the southern hemisphere. It contains most of the Large Magellanic Cloud, a nearby satellite galaxy of the Milky Way. Dorado was named in the sixteenth century and refers to mahi-mahi, the common dolphin fish. Some old star charts refer to Dorado as Xiphias, a swordfish."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
