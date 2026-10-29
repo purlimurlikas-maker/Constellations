@@ -144,6 +144,16 @@ const facts = {
     text: "Crater is a small constellation located just south of the celestial equator. Crater is one of the 48 constellations cataloged by the second-century astronomer Ptolemy and represents a cup used by Apollo."
   },
 
+  crux: {
+    name: "Crux",
+    text: "The Crux constellation, also known as the Southern Cross, is a small but prominent constellation in the southern hemisphere's night sky. It is one of the most famous and easily recognizable constellations in the southern celestial hemisphere. The name Crux itself is derived from the Latin word for a cross, and it reflects the constellation's distinctive shape. Over time, Crux became an important navigational tool for sailors in the southern hemisphere because its position in the night sky helped them determine their latitude."
+  },
+
+  cygnus: {
+    name: "Cygnus",
+    text: "Cygnus is a northern constellation in the plane of the Milky Way. The original Greek constellation was named “Ornithos, The Bird” and it was coined “Cygnus, The Swan” in Latin by interpreting a specific mythological bird, a transformed god. Cygnus is also known as the Northern Cross."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
