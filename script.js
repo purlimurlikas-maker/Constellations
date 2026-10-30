@@ -194,6 +194,11 @@ const facts = {
     text: "Grus is a constellation in the southern sky that can be seen low in the south from mid-northern latitudes. Grus is Latin for crane. Grus was created by Dutch-Flemish astronomer Petrus Plancius and first appeared on a celestial globe in 1598. The stars that form Grus were previously part of Piscis Austrinus."
   },
 
+  hercules: {
+    name: "Hercules",
+    text: "Hercules is a northern hemisphere constellation but it is visible to many observers south of the equator as well. Hercules is named after the hero of Roman mythology (the Greek version is Heracles). Hercules is one of the 48 constellations cataloged by the second-century astronomer Ptolemy, but as a nameless Kneeler which had been his name for ancient Greek astronomers since Aratus in the 4th century BCE. Hercules is the fifth-largest constellation by size. Hercules is best observed in the northern hemisphere from late spring until early fall."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
