@@ -176,7 +176,7 @@ const facts = {
 
   eridanus: {
     name: "Eridanus",
-    text: "Eridanus is the sixth-largest constellation in the sky and is located south of the celestial equator. Eridanus has the greatest extent from north to south of any constellation in the sky! The northern part of the constellation Eridanus was cataloged by the second-century astronomer Ptolemy, for him only named “The River”. “ Due to a mistake of Ptolemy who states that the brightest star of the constellation is at the end of the river, Dutch navigators in the 1590s extended the constellation further south when they sailed to the southern hemisphere and saw the bright star that is now called Achernar."
+    text: "Eridanus is the sixth-largest constellation in the sky and is located south of the celestial equator. Eridanus has the greatest extent from north to south of any constellation in the sky! "
   },
 
   fornax: {
@@ -187,6 +187,11 @@ const facts = {
   gemini: {
     name: "Gemini",
     text: "Gemini is a northern hemisphere constellation cataloged by the second-century astronomer Ptolemy. Gemini is one of the constellations of the zodiac, since it lies on the apparent path the Sun takes across the sky. Gemini represents the twins Castor and Pollux in Greek mythology who have their models in the Babylonian uranology as the warriors Lugalirra and Meslamta’ea. Gemini is primarily a winter/spring constellation."
+  },
+
+  grus: {
+    name: "Grus",
+    text: "Grus is a constellation in the southern sky that can be seen low in the south from mid-northern latitudes. Grus is Latin for crane. Grus was created by Dutch-Flemish astronomer Petrus Plancius and first appeared on a celestial globe in 1598. The stars that form Grus were previously part of Piscis Austrinus."
   },
 
   pegasus: {
