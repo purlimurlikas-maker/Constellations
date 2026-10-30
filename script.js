@@ -179,6 +179,16 @@ const facts = {
     text: "Eridanus is the sixth-largest constellation in the sky and is located south of the celestial equator. Eridanus has the greatest extent from north to south of any constellation in the sky! The northern part of the constellation Eridanus was cataloged by the second-century astronomer Ptolemy, for him only named “The River”. “ Due to a mistake of Ptolemy who states that the brightest star of the constellation is at the end of the river, Dutch navigators in the 1590s extended the constellation further south when they sailed to the southern hemisphere and saw the bright star that is now called Achernar."
   },
 
+  fornax: {
+    name: "Fornax",
+    text: "Fornax is a southern hemisphere constellation that represents a furnace. Fornax is partly circled by Eridanus. Fornax was named in 1756 by French astronomer Nicolas Louis de Lacaille making it a modern constellation."
+  },
+
+  gemini: {
+    name: "Gemini",
+    text: "Gemini is a northern hemisphere constellation cataloged by the second-century astronomer Ptolemy. Gemini is one of the constellations of the zodiac, since it lies on the apparent path the Sun takes across the sky. Gemini represents the twins Castor and Pollux in Greek mythology who have their models in the Babylonian uranology as the warriors Lugalirra and Meslamta’ea. Gemini is primarily a winter/spring constellation."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
