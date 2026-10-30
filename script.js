@@ -169,6 +169,16 @@ const facts = {
     text: "Draco is a constellation in the far northern sky and is circumpolar for observers at mid-northern latitudes and places farther north. Draco was cataloged by the second-century astronomer Ptolemy. Draco is seen as a dragon in Greek mythology."
   },
 
+  equuleus: {
+    name: "Equuleus",
+    text: "Equuleus is the second-smallest constellation in the night sky and lies just north of the celestial equator. Equuleus is faint with no stars brighter than 4th magnitude. Equuleus was cataloged by the second-century astronomer Ptolemy and means little horse in Latin."
+  },
+
+  eridanus: {
+    name: "Eridanus",
+    text: "Eridanus is the sixth-largest constellation in the sky and is located south of the celestial equator. Eridanus has the greatest extent from north to south of any constellation in the sky! The northern part of the constellation Eridanus was cataloged by the second-century astronomer Ptolemy, for him only named “The River”. “ Due to a mistake of Ptolemy who states that the brightest star of the constellation is at the end of the river, Dutch navigators in the 1590s extended the constellation further south when they sailed to the southern hemisphere and saw the bright star that is now called Achernar."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
