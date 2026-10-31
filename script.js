@@ -199,6 +199,16 @@ const facts = {
     text: "Hercules is a northern hemisphere constellation but it is visible to many observers south of the equator as well. Hercules is named after the hero of Roman mythology (the Greek version is Heracles). Hercules is one of the 48 constellations cataloged by the second-century astronomer Ptolemy, but as a nameless Kneeler which had been his name for ancient Greek astronomers since Aratus in the 4th century BCE. Hercules is the fifth-largest constellation by size. Hercules is best observed in the northern hemisphere from late spring until early fall."
   },
 
+  horologium: {
+    name: "Horologium",
+    text: "Horologium is a far-southern constellation visible from the northern tropics and the southern hemisphere. Horologium is a faint constellation that represents a pendulum clock. Horologium was first described by French astronomer Nicolas-Louis de Lacaille in 1756."
+  },
+
+  hydra: {
+    name: "Hydra",
+    text: "Hydra spans from just north of the celestial equator to 35 degrees south of the celestial equator, so all observers can see at least part of the constellation. Hydra is the largest constellation and also the longest, covering 100 degrees from east to west. The Greek constellation of Hydra, The Watersnake, is a reinterpretation of a Babylonian constellation in the framework of Greek mythology. The original constellation depicted the Babylonian Mush-dragon, a dog-headed gigantic serpent with wings and front legs, also called Mushkhushshu. With a raven sitting on its tail tip, this creature was split into two constellations “Corvus” and “Hydra” after the takeover by the Greeks."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
