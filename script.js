@@ -214,6 +214,16 @@ const facts = {
     text: "Hydrus, a small southern constellation, represents a lesser-known male water snake. Hydrus is a small constellation in the southern hemisphere that is best seen in December."
   },
 
+  indus: {
+    name: "Indus",
+    text: "Indus is a southern hemisphere constellation and was first mapped by European explorers in 1598. The constellation was created by Petrus Plancius based on observations from Pieter Dirkszoon Keyser and Frederick de Houtman. The English translation of its name is ‘the Indian’."
+  },
+
+  lacerta: {
+    name: "Lacerta",
+    text: "Lacerta is latin for ‘small lizard’. It is a faint constellation that was created in 1687 by the astronomer Johannes Hevelius. Its distinct, but faint W shape is often compared to its brighter northern hemisphere counterpart, Cassiopeia."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
