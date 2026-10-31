@@ -209,6 +209,11 @@ const facts = {
     text: "Hydra spans from just north of the celestial equator to 35 degrees south of the celestial equator, so all observers can see at least part of the constellation. Hydra is the largest constellation and also the longest, covering 100 degrees from east to west. The Greek constellation of Hydra, The Watersnake, is a reinterpretation of a Babylonian constellation in the framework of Greek mythology. The original constellation depicted the Babylonian Mush-dragon, a dog-headed gigantic serpent with wings and front legs, also called Mushkhushshu. With a raven sitting on its tail tip, this creature was split into two constellations “Corvus” and “Hydra” after the takeover by the Greeks."
   },
 
+  hydrus: {
+    name: "Hydrus",
+    text: "Hydrus, a small southern constellation, represents a lesser-known male water snake. Hydrus is a small constellation in the southern hemisphere that is best seen in December."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
