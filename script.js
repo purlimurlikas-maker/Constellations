@@ -224,6 +224,16 @@ const facts = {
     text: "Lacerta is latin for ‘small lizard’. It is a faint constellation that was created in 1687 by the astronomer Johannes Hevelius. Its distinct, but faint W shape is often compared to its brighter northern hemisphere counterpart, Cassiopeia."
   },
 
+  leo: {
+    name: "Leo",
+    text: "Leo is among the easier constellations to identify, given the distinctive asterism shaped like a sickle, or a backwards question-mark, on its western side. As a northern hemisphere constellation, Leo is best seen from northern latitudes, but is visible from the southern hemisphere as well, although not from extreme southern latitudes. Known as a springtime constellation, Leo is visible late at night during northern hemisphere winters (summers in the southern hemisphere), and visible in the early evening in the northern hemisphere spring (autumn in the southern hemisphere)."
+  },
+
+  leominor: {
+    name: "Leo Minor",
+    text: "Leo Minor is a faint constellation located in the northern hemisphere. The name is Latin for lesser lion."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
