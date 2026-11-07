@@ -249,6 +249,11 @@ const facts = {
     text: "Lupus (Latin for wolf) is a constellation in the southern hemisphere and one of the 48 constellations cataloged by second century astronomer Ptolemy. In ancient times, Lupus was an asterism within Centaurus and considered to be an animal killed by the centaur."
   },
 
+   lynx: {
+    name: "Lynx",
+    text: "Lynx is a modern constellation created by Polish astronomer Johannes Hevelius in 1687. Lynx is named after the feline predator. It is a faint northern hemisphere constellation and Hevelius said you would need 'the eyes of a lynx' to observe it."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
