@@ -254,6 +254,21 @@ const facts = {
     text: "Lynx is a modern constellation created by Polish astronomer Johannes Hevelius in 1687. Lynx is named after the feline predator. It is a faint northern hemisphere constellation and Hevelius said you would need 'the eyes of a lynx' to observe it."
   },
 
+  lyra: {
+    name: "Lyra",
+    text: "In Greek mythology, Lyra represents the lyre of Orpheus. It is more easily visible from the northern hemisphere."
+  },
+
+  mensa: {
+    name: "Mensa",
+    text: "The constellation of Mensa is located in the southern hemisphere, near the south celestial pole. Its name is Latin for a table. Mensa is one of the faintest constellations in the sky, with almost no stars visible from urban areas. "
+  },
+
+  microscopium: {
+    name: "Microscopium",
+    text: "Microscopium is a faint minor constellation in the southern hemisphere sky. It is one of twelve IAU constellations created by Nicolas-Louis de Lacaille in 1751. The constellation was first introduced as the French ‘le Microscope’ and was later latinised to Microscopium by 1763."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
