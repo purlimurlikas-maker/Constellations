@@ -244,6 +244,11 @@ const facts = {
     text: "Libra, whose Latin name means the scales, is a faint constellation of the zodiac, located in the northern hemisphere. The constellation does not contain any stars brighter than second magnitude."
   },
 
+  lupus: {
+    name: "Lupus",
+    text: "Lupus (Latin for wolf) is a constellation in the southern hemisphere and one of the 48 constellations cataloged by second century astronomer Ptolemy. In ancient times, Lupus was an asterism within Centaurus and considered to be an animal killed by the centaur."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
