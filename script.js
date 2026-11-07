@@ -234,6 +234,16 @@ const facts = {
     text: "Leo Minor is a faint constellation located in the northern hemisphere. The name is Latin for lesser lion."
   },
 
+  lepus: {
+    name: "Lepus",
+    text: "Lepus, Latin for a hare, is a small constellation located just south of the celestial equator."
+  },
+
+  libra: {
+    name: "Libra",
+    text: "Libra, whose Latin name means the scales, is a faint constellation of the zodiac, located in the northern hemisphere. The constellation does not contain any stars brighter than second magnitude."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
