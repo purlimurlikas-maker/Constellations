@@ -269,6 +269,11 @@ const facts = {
     text: "Microscopium is a faint minor constellation in the southern hemisphere sky. It is one of twelve IAU constellations created by Nicolas-Louis de Lacaille in 1751. The constellation was first introduced as the French ‘le Microscope’ and was later latinised to Microscopium by 1763."
   },
 
+  monoceros: {
+    name: "Monoceros",
+    text: "Monoceros is derived from the Greek word for unicorn. It is a faint constellation on the celestial equator. Its definition is attributed to the seventeenth-century Dutch cartographer Petrus Plancius."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
