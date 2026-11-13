@@ -274,6 +274,21 @@ const facts = {
     text: "Monoceros is derived from the Greek word for unicorn. It is a faint constellation on the celestial equator. Its definition is attributed to the seventeenth-century Dutch cartographer Petrus Plancius."
   },
 
+  musca: {
+    name: "Musca",
+    text: "Musca (Latin for 'the fly') is a small constellation in the deep southern sky. It was one of 12 constellations created by Petrus Plancius from the observations of Pieter Dirkszoon Keyser and Frederick de Houtman, and it first appeared on a celestial globe 35 cm (14 in) in diameter published in 1597 (or 1598) in Amsterdam by Plancius and Jodocus Hondius."
+  },
+
+  norma: {
+    name: "Norma",
+    text: "Norma is a small constellation in the southern celestial hemisphere between Ara and Lupus, one of twelve drawn up in the eighteenth century by French astronomer Nicolas-Louis de Lacaille and one of several depicting scientific instruments. Norma represents a carpenters square."
+  },
+
+  octans: {
+    name: "Octans",
+    text: "Octans is a faint constellation located in the deep southern sky. Its name is Latin for the eighth part of a circle, but it is named after the octant, a navigational instrument. Octans was one of the constellations created in the 1750s by the French astronomer Nicolas Louis de Lacaille depicting scientific instruments. The southern celestial pole lies within the constellation of Octans."
+  },
+
   pegasus: {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
