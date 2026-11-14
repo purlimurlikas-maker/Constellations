@@ -303,6 +303,11 @@ const facts = {
     name: "Pegasus",
     text: "Pegasus is known for its distinctive square-shaped asterism, which marks its body, and it remains a prominent and easily recognizable feature of the celestial tapestry.It's a collection of stars in the northern hemisphere, typically associated with the autumn night sky. "
   },
+
+  perseus: {
+    name: "Perseus",
+    text: "Perseus is a constellation in the northern sky, named after the Greek mythological hero Perseus. It is one of the 48 ancient constellations listed by the second-century astronomer Ptolemy and is among the 88 modern constellations defined by the International Astronomical Union (IAU). It is located near several other constellations named after ancient Greek legends, including Andromeda to the west and Cassiopeia to the north."
+  },
 };
 
 
