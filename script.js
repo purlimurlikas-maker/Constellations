@@ -1,7 +1,7 @@
 const facts = {
   orion: {
     name: "Orion",
-    text: "The Hunter. Look for the three belt stars in winter skies. Its brightest star is Betelgeuse, a red supergiant."
+    text: "Orion is a prominent constellation during winter in the northern hemisphere. As it lies near the celestial equator, it is visible from most of the world. It is one of the 88 modern constellations and was among the 48 constellations listed by the second-century astronomer Ptolemy. It is named for a mythological hunter in Greek mythology. The Sumerians saw Orion as Gilgamesh fighting a bull, Taurus."
   },
   
   cassiopeia: {
@@ -292,6 +292,11 @@ const facts = {
   ophiuchus: {
     name: "Ophiuchus",
     text: "Ophiuchus is associated with a figure from Greek mythology named Asclepius, who was a legendary healer and physician. According to the myth, Asclepius was exceptionally skilled in the art of medicine and possessed the ability to resurrect the dead. The ecliptic passes through Ophiuchus. The Sun, Moon and the planets pass through this constellations as seen from Earth."
+  },
+
+  pavo: {
+    name: "Pavo",
+    text: "Pavo was invented in the 1590s by the navigators Keyser and de Houtman, representing the peacocks they encountered when they were traveling in and mapping places in southeast Asia and Oceania."
   },
 
   pegasus: {
