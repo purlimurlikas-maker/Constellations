@@ -308,6 +308,16 @@ const facts = {
     name: "Perseus",
     text: "Perseus is a constellation in the northern sky, named after the Greek mythological hero Perseus. It is one of the 48 ancient constellations listed by the second-century astronomer Ptolemy and is among the 88 modern constellations defined by the International Astronomical Union (IAU). It is located near several other constellations named after ancient Greek legends, including Andromeda to the west and Cassiopeia to the north."
   },
+
+  phoenix: {
+    name: "Phoenix",
+    text: "Phoenix is a minor constellation in the southern sky, and is somewhat faint to the naked eye. Phoenix is the mythical bird that periodically regenerates. Phoenix is part of the “southern bird” constellations along with Grus, Pava, Tucana and Apus."
+  },
+
+  pictor: {
+    name: "Pictor",
+    text: "Pictor is a constellation in the southern celestial hemisphere, located between the star Canopus and the Large Magellanic Cloud. Pictor was first described by French astronomer Nicolas-Louis de Lacaille in 1756. The original name of the constellation was Pictor as le Chevalet et la Palette which translates as 'the easel and the palette'. It was later shortened to Pictor and is usually depicted as an artist easel."
+  },
 };
 
 
