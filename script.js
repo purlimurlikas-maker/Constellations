@@ -333,6 +333,16 @@ const facts = {
     name: "Puppis",
     text: "Puppis is a southern constellation but can be seen low in the sky from mid-northern latitudes during winter months. Puppis is the ‘poop deck’. It was originally party of a larger constellation called Argo Navis, the ship of Jason and the Argonauts. Argo Navis was split into Puppis, Carina (the Keel) and Vela (the Sail)."
   },
+
+  pyxis: {
+    name: "Pyxis",
+    text: "Pyxis is a small and faint constellation in the southern sky. Abbreviated from Pyxis Nautica, its name is Latin for a mariner's compass. Pyxis was introduced by Nicolas-Louis de Lacaille in the 18th century, and is counted among the 88 modern constellations."
+  },
+
+  reticulum: {
+    name: "Reticulum",
+    text: "Reticulum is a faint minor constellation in the southern hemisphere sky. Isaac Habrecht II first labeled a constellation named Rhombus in the same section of the sky on his celestial globe in 1621; in the 1750s Nicolas-Louis de Lacaille recreated the constellation as le Réticule Rhomboide, the Rhomboid Reticle, in honor of the reticle in his telescope eyepiece. It is one of the fourteen IAU constellations created by de Lacaille which honor the Age of Enlightenment and the tools that were created and used during this time."
+  },
 };
 
 
