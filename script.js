@@ -343,6 +343,16 @@ const facts = {
     name: "Reticulum",
     text: "Reticulum is a faint minor constellation in the southern hemisphere sky. Isaac Habrecht II first labeled a constellation named Rhombus in the same section of the sky on his celestial globe in 1621; in the 1750s Nicolas-Louis de Lacaille recreated the constellation as le Réticule Rhomboide, the Rhomboid Reticle, in honor of the reticle in his telescope eyepiece. It is one of the fourteen IAU constellations created by de Lacaille which honor the Age of Enlightenment and the tools that were created and used during this time."
   },
+
+  sagitta: {
+    name: "Sagitta",
+    text: "Sagitta is a dim but distinctive constellation in the northern sky. Sagitta is one of the original 48 constellations of Ptolemy, and represents an arrow."
+  },
+  
+  sagittarius: {
+    name: "Sagittarius",
+    text: "Sagittarius is located in the southern hemisphere and is a prominent constellation of the zodiac. It is often depicted as a centaur, a mythical creature that is half-human and half-horse, drawing a bow."
+  },
 };
 
 
