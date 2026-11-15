@@ -323,6 +323,16 @@ const facts = {
     name: "Pisces",
     text: "Pisces is in the first quadrant of the Northern Hemisphere and covers a large V-shaped region. Its large area, coupled with its dim stars, makes it hard to pick out in the night sky. Northern Hemisphere observers are able to see Pisces most clearly in early autumn."
   },
+
+  piscisaustrinus: {
+    name: "Piscis Austrinus",
+    text: "Piscis Austrinus is a faint southern constellation but is visible low in the south during late summer and early fall months at mid-northern latitudes. The name is Latin for the southern fish. Piscis Austrinus was one of the 48 constellations cataloged by the second-century astronomer Ptolemy that was a direct takeover of an original Babylonian constellation. The “huge fish” or “southern fish” or simply “fish” with the bright star on his mouth can be traced back at least to the second millennium BCE.."
+  },
+
+  puppis: {
+    name: "Puppis",
+    text: "Puppis is a southern constellation but can be seen low in the sky from mid-northern latitudes during winter months. Puppis is the ‘poop deck’. It was originally party of a larger constellation called Argo Navis, the ship of Jason and the Argonauts. Argo Navis was split into Puppis, Carina (the Keel) and Vela (the Sail)."
+  },
 };
 
 
