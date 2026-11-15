@@ -318,6 +318,11 @@ const facts = {
     name: "Pictor",
     text: "Pictor is a constellation in the southern celestial hemisphere, located between the star Canopus and the Large Magellanic Cloud. Pictor was first described by French astronomer Nicolas-Louis de Lacaille in 1756. The original name of the constellation was Pictor as le Chevalet et la Palette which translates as 'the easel and the palette'. It was later shortened to Pictor and is usually depicted as an artist easel."
   },
+
+  pisces: {
+    name: "Pisces",
+    text: "Pisces is in the first quadrant of the Northern Hemisphere and covers a large V-shaped region. Its large area, coupled with its dim stars, makes it hard to pick out in the night sky. Northern Hemisphere observers are able to see Pisces most clearly in early autumn."
+  },
 };
 
 
